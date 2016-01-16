@@ -37,7 +37,8 @@ git keeps asking for username<br>
 set up git credentials
 
 * emacs .bash_profile
+Ooops, maybe it should  ~/.bash_profile
 * function short_push(git add -A, git commit -m "i added some edit!", git push origin master)
 * save changes in .bash_profile
-* don't forget source /.bash_profile
+* don't forget source ~/.bash_profile
 * and try the shortcut command!
