@@ -22,3 +22,10 @@ This is my **first** page.
 * git commit -m "i added some text"
 (above two, everytime!)
 * git push origin master (finally!)
+
+
+* make any random file
+* emacs .gitignore
+* add the filename you want to hide
+* save and close it
+* reflect as usual
