@@ -29,3 +29,8 @@ This is my **first** page.
 * add the filename you want to hide
 * save and close it
 * reflect as usual
+
+
+Homework:
+git keeps asking for username
+set up git credentials
