@@ -15,3 +15,6 @@ This is my **first** page.
 * cd home
 * emacs .git/config
 * git pull origin master -> reflect 
+
+* git add -A
+* git commit -m "i added some text"
