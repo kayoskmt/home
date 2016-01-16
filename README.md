@@ -16,5 +16,8 @@ This is my **first** page.
 * emacs .git/config
 * git pull origin master -> reflect 
 
+* edit README.md! Then save and close!
+
 * git add -A
 * git commit -m "i added some text"
+(above two, everytime!)
