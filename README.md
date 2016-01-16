@@ -21,3 +21,4 @@ This is my **first** page.
 * git add -A
 * git commit -m "i added some text"
 (above two, everytime!)
+* git push origin master (finally!)
