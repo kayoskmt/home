@@ -1,7 +1,7 @@
 # home
 
 ## Header size 2
-# Header size 5
+# Header size 1
 
 # Introduction
 #### This is my *first* and **bold** page.
@@ -10,6 +10,7 @@ This is my **first** page.
 
 'def foo()'
 '''def foo():'''
+
 
 * git clone https://github.com/kayoskmt/home.git
 * cd home
@@ -32,5 +33,5 @@ This is my **first** page.
 
 
 Homework:
-git keeps asking for username
+git keeps asking for username<br>
 set up git credentials
