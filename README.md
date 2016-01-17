@@ -42,3 +42,8 @@ function short_push(git add -A, git commit -m "i added some edit!", git push ori
 source ~/.bash_profile %don't forget 
 %and try the shortcut command!
 ```
+And other useful UNIX commands...
+
+```pwd %current location```
+```mv SG_DAT1 ~/DataScience/SG_DATA1```
+```rm -r homework```
