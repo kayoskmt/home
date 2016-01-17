@@ -47,3 +47,4 @@ And other useful UNIX commands...
 ```pwd %current location```
 ```mv SG_DAT1 ~/DataScience/SG_DATA1```
 ```rm -r homework```
+TAB -> rectify
