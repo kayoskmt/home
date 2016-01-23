@@ -11,6 +11,9 @@ This is my **first** page.
 `def foo()` <br>
 ```def foo():```
 
+
+
+
 ```
 git clone https://github.com/kayoskmt/home.git
 cd home
@@ -22,6 +25,15 @@ git commit -m "i added some text"
 %(above two, everytime!)
 git push origin master %(finally!)
 ```
+When you want to update your local repo
+```
+git init
+git pull
+```
+
+
+
+
 ```
 touch filename %make any random file
 emacs .gitignore
