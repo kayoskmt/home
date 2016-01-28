@@ -60,3 +60,12 @@ And other useful UNIX commands...
 ```mv SG_DAT1 ~/DataScience/SG_DATA1```
 ```rm -r homework```
 TAB -> rectify
+
+How to update
+First, go "under" home work rep
+```
+git add -A .
+git commit -m "hey"
+git pull origin master # to make sure you have all updates first
+git push origin master
+```
