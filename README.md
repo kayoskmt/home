@@ -69,3 +69,7 @@ git commit -m "hey"
 git pull origin master # to make sure you have all updates first
 git push origin master
 ```
+```
+git fetch --all
+git reset --hard master
+```
