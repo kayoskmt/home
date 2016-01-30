@@ -69,6 +69,8 @@ git commit -m "hey"
 git pull origin master # to make sure you have all updates first
 git push origin master
 ```
+
+This is what to do when you want update git hun repo!
 ```
 git fetch --all
 git reset --hard master
