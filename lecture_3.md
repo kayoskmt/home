@@ -1,3 +1,3 @@
-list vs np.array
-list -> pointer ->flexible, but slow
-np.array -> direct data, only int or float, or double, so faster
+list vs np.array <br>
+list -> pointer ->flexible, but slow <br>
+np.array -> direct data, only int or float, or double, so faster <br>
